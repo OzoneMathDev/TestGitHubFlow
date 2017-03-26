@@ -1,1 +1,7 @@
-Test Git Hub work flow
+0. Test Git Hub work flow
+1. Created local branch (testbranch)
+2. Commited on local branch (testbranch)
+3.Sync testbranch (pull + push)
+4. Pull request
+
+
