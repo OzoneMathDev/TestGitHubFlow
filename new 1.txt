@@ -3,5 +3,7 @@
 2. Commited on local branch (testbranch)
 3.Sync testbranch (pull + push)
 4. Pull request
-
+5. Accept pull request
+6. Commit 2 
+7. Pull request 2 
 
